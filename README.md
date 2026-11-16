@@ -4,13 +4,13 @@ JOGO DE RPG - Python + banco de dados SQLite
 ===========================================      
 
 Arquivos      
-&nbsp;main.py         programa principal: menu e conexão com o banco (pronto)
-&nbsp;banco.py        cria o arquivo rpg.db e as 5 tabelas (pronto)
-&nbsp;classes.py      funções da tabela classes    (pronto - É O MODELO)
-&nbsp;jogadores.py    complete as funções   (Parte 3)
-&nbsp;itens.py        complete as funções   (Parte 3)
-&nbsp;personagens.py  complete as funções   (Parte 4)
-&nbsp;inventario.py   complete as funções   (Parte 5 - desafio)       
+&nbsp;main.py         programa principal: menu e conexão com o banco (pronto)                   
+&nbsp;banco.py        cria o arquivo rpg.db e as 5 tabelas (pronto)                    
+&nbsp;classes.py      funções da tabela classes    (pronto - É O MODELO)                       
+&nbsp;jogadores.py    complete as funções   (Parte 3)                     
+&nbsp;itens.py        complete as funções   (Parte 3)                        
+&nbsp;personagens.py  complete as funções   (Parte 4)                           
+&nbsp;inventario.py   complete as funções   (Parte 5 - desafio)                      
           
 Como rodar"""           
 personagens.py - Funções da tabela PERSONAGENS.           
